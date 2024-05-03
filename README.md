@@ -17,7 +17,4 @@ the trader.
 Maintained and contributed to by Nicholas Till
 
 ## How to run
-TBA
-
-## Notes
-TBA
+Simple python script you can run in VScode
